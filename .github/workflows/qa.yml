@@ -1,4 +1,4 @@
-name: dockerloginQa
+name: dockerloginQA
 
 # Controls when the workflow will run
 on:
